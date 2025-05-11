@@ -41,7 +41,7 @@ Perfect for virtual surprises or parties where people can drop memories and wish
 
 
 ### Go to `/images` to upload or view photos
-  ![Screenshot 2025-05-11 202721](https://github.com/user-attachments/assets/30c0d942-72fc-4389-af0a-9fe4da64089c)
+![Screenshot 2025-05-11 203818](https://github.com/user-attachments/assets/1e73ebc8-6a3f-4e78-8ced-0300fd5a013c)
 
 ### Go to `/notes` to leave a birthday message
   ![Screenshot 2025-05-11 202735](https://github.com/user-attachments/assets/40e9672a-28b4-411d-9533-ee822b72fbd0)
